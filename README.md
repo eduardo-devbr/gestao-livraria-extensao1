@@ -44,7 +44,6 @@ A solução computacional contempla (conforme evolução do levantamento de requ
 * [ ] **Controle de Estoque e Vendas:** Registro de transações de entrada/saída de livros e relatórios simples de comercialização.
 * [ ] **Consulta de Acervo:** Interface de busca para verificação imediata da disponibilidade de itens.
 
-> *Nota: Por se tratar de um projeto iterativo em fase inicial, as funcionalidades específicas serão refinadas e detalhadas ao longo do desenvolvimento.*
 
 ---
 
@@ -59,8 +58,6 @@ O desenvolvimento segue a abordagem **Ágil**, utilizando o **Scrum** como refer
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-*(Seção reservada para a definição da stack técnica do projeto)*
 
 * **Linguagem / Framework Backend:** *A definir*
 * **Frontend:** *A definir*
@@ -82,7 +79,3 @@ O desenvolvimento segue a abordagem **Ágil**, utilizando o **Scrum** como refer
 ```
 
 ---
-
-## 📝 Considerações Iniciais
-
-O projeto encontra-se em estágio inicial de definição de requisitos. As decisões arquiteturais e o detalhamento das rotinas da aplicação evoluirão em colaboração direta com o Sebo do Cesar.
